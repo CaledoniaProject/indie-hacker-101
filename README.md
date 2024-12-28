@@ -1,6 +1,6 @@
 ### 说明
 
-我花费1个月完成了调研工作，目前全流程都完成了验证，供大家参考。
+我花费1个月完成了调研工作，供大家参考。目前全流程都完成了验证，后面如果有变化还会继续更新。
 
 - [产品开发](#产品开发)
   - [1. 需求搜集](#1-需求搜集)
@@ -126,11 +126,11 @@
 
 手工注册流程
 
-1. 准备护照、专用邮箱、专用手机号、地址证明。无需身份证。
+1. 准备护照、专用邮箱、专用境外手机号、地址证明。
 2. 选择一家Register Agent注册公司 (美国公民或者永居才能是RA)。
 2. 申请EIN。有SSN在线申请，否则[通过传真提交SS4表格申请](https://www.llcuniversity.com/irs/how-to-apply-for-ein-without-ssn/#form-ss4)，1天搞定。[Fivver链接，需要选$15的，EIN + 147-C](https://www.fiverr.com/search/gigs?query=EIN)，加上手续费$18。
 3. 有EIN后，30天内[在线提交BOI](https://boiefiling.fincen.gov/)，流程可以参考[BOI报告申报](https://qinyang.wang/beneficial-ownership-information-report)。
-4. 开通企业银行: [Mercury](https://mercury.com/pricing)、[Wise](https://wise.com/us/pricing/)，1天搞定
+4. 开通企业银行: [Mercury](https://mercury.com/pricing)、[Wise](https://wise.com/us/pricing/)，1天搞定。如果被拒绝，绝大多数都是地址证明的问题。
 5. 开通Stripe、关联Mercury银行，10分钟搞定
 
 企业银行选择
